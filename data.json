@@ -659,6 +659,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "almoço meu e pai"
+    },
+    {
+      "id": "1775160100311-ge4nq",
+      "desc": "Aluguel",
+      "cat": "🏠 Contas Fixas",
+      "resp": "Casal",
+      "fixaDetail": "Aluguel",
+      "val": 2200,
+      "data": "2026-04-02",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
