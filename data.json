@@ -623,6 +623,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775141621362-km7sa",
+      "desc": "Cartão mercado Pago",
+      "cat": "💳 Cartões",
+      "resp": "Ele",
+      "fixaDetail": "",
+      "val": 936.6,
+      "data": "2026-04-02",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
