@@ -635,6 +635,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775146008652-schdm",
+      "desc": "nivel laser",
+      "cat": "🏗️ Reforma",
+      "resp": "Ele",
+      "fixaDetail": "",
+      "val": 268.77,
+      "data": "2026-04-02",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "Ferramenta para obra."
     }
   ],
   "materiais": [
