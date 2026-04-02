@@ -647,6 +647,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Ferramenta para obra."
+    },
+    {
+      "id": "1775157406748-ns5tp",
+      "desc": "Almoço",
+      "cat": "🍽️ Restaurante",
+      "resp": "Ele",
+      "fixaDetail": "",
+      "val": 77.9,
+      "data": "2026-04-02",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "almoço meu e pai"
     }
   ],
   "materiais": [
