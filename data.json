@@ -671,6 +671,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775179418214-d5sot",
+      "desc": "Mercado",
+      "cat": "🛒 Compras Mercado",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 86.16,
+      "data": "2026-04-03",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
