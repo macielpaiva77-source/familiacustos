@@ -793,6 +793,18 @@
       "total": 349.25,
       "forn": "Amazon",
       "obs": ""
+    },
+    {
+      "id": "1775345026410-4wuuq",
+      "nome": "Luminárias",
+      "cat": "Elétrica",
+      "status": "Comprado",
+      "qtd": 1,
+      "un": "un",
+      "preco": 738.63,
+      "total": 738.63,
+      "forn": "",
+      "obs": "Luminárias para sala, cozinha, quarto, closet e area"
     }
   ],
   "maodeobra": [
