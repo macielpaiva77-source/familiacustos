@@ -695,6 +695,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Carne para o sitio"
+    },
+    {
+      "id": "1775337171046-uba9o",
+      "desc": "Combustível",
+      "cat": "⛽ Combustível",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 190,
+      "data": "2026-04-04",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "Alcool"
     }
   ],
   "materiais": [
