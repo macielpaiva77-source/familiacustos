@@ -695,18 +695,6 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Carne para o sitio"
-    },
-    {
-      "id": "1775317859884-84uw6",
-      "desc": "Pagamento pedreiro",
-      "cat": "🏗️ Reforma",
-      "resp": "Casal",
-      "fixaDetail": "",
-      "val": 1000,
-      "data": "2026-04-04",
-      "parc": 1,
-      "parcAtual": 1,
-      "obs": ""
     }
   ],
   "materiais": [
