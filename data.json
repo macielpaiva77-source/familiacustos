@@ -793,6 +793,18 @@
       "total": 1000,
       "forn": "",
       "obs": ""
+    },
+    {
+      "id": "1775343996921-n0uit",
+      "nome": "Interruptor inteligente",
+      "cat": "Elétrica",
+      "status": "Comprado",
+      "qtd": 5,
+      "un": "un",
+      "preco": 69.85,
+      "total": 349.25,
+      "forn": "Amazon",
+      "obs": ""
     }
   ],
   "maodeobra": [
