@@ -769,6 +769,18 @@
       "forn": "Mercado Livre",
       "status": "Comprado",
       "obs": ""
+    },
+    {
+      "id": "1775337143325-ytxsi",
+      "nome": "Tijolo 1 milheiro",
+      "cat": "Alvenaria",
+      "status": "Entregue",
+      "qtd": 1,
+      "un": "un",
+      "preco": 1000,
+      "total": 1000,
+      "forn": "",
+      "obs": ""
     }
   ],
   "maodeobra": [
