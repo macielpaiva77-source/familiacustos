@@ -783,6 +783,18 @@
       "data": "2026-03-30",
       "status": "Concluído",
       "obs": ""
+    },
+    {
+      "id": "1775332426262-65511",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-04-04",
+      "qtd": 1,
+      "val": 1000,
+      "total": 1000,
+      "obs": "Adiantamento de pgt"
     }
   ]
 }
