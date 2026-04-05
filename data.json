@@ -805,6 +805,18 @@
       "total": 738.63,
       "forn": "",
       "obs": "Luminárias para sala, cozinha, quarto, closet e area"
+    },
+    {
+      "id": "1775347317044-oaz3k",
+      "nome": "Torneira cozinha",
+      "cat": "Hidráulica",
+      "status": "Comprado",
+      "qtd": 1,
+      "un": "un",
+      "preco": 110.74,
+      "total": 110.74,
+      "forn": "Mercado livre",
+      "obs": ""
     }
   ],
   "maodeobra": [
