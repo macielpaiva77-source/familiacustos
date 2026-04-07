@@ -731,6 +731,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Compras mercado"
+    },
+    {
+      "id": "1775575899425-mss2m",
+      "desc": "Cartão riachuelo",
+      "cat": "💳 Cartões",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 2094.38,
+      "data": "2026-04-07",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
