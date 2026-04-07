@@ -707,6 +707,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Alcool"
+    },
+    {
+      "id": "1775575831593-lece3",
+      "desc": "Pizza",
+      "cat": "🍽️ Restaurante",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 50,
+      "data": "2026-04-05",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "Lazer"
     }
   ],
   "materiais": [
