@@ -719,6 +719,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": "Lazer"
+    },
+    {
+      "id": "1775575851525-kmdm0",
+      "desc": "Mercado",
+      "cat": "🛒 Compras Mercado",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 110,
+      "data": "2026-04-06",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "Compras mercado"
     }
   ],
   "materiais": [
