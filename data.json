@@ -755,6 +755,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775687906232-gtwgd",
+      "desc": "Mercado",
+      "cat": "🛒 Compras Mercado",
+      "resp": "Casal",
+      "fixaDetail": "",
+      "val": 96.51,
+      "data": "2026-04-08",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
