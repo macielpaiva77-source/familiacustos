@@ -762,12 +762,12 @@
       "id": "1775141054847-dgcnu",
       "nome": "Materiais Cambará",
       "cat": "Alvenaria",
+      "status": "Entregue",
       "qtd": 1,
       "un": "un",
       "preco": 6910,
       "total": 6910,
       "forn": "Madeireira Cambará",
-      "status": "Comprado",
       "obs": ""
     },
     {
