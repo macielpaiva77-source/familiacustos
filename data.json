@@ -743,6 +743,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775656156342-3jymb",
+      "desc": "Energia",
+      "cat": "🏠 Contas Fixas",
+      "resp": "Casal",
+      "fixaDetail": "Luz",
+      "val": 602,
+      "data": "2026-04-07",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": ""
     }
   ],
   "materiais": [
