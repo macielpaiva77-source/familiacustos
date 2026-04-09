@@ -767,6 +767,18 @@
       "parc": 1,
       "parcAtual": 1,
       "obs": ""
+    },
+    {
+      "id": "1775759757794-t8mfd",
+      "desc": "parcela carro",
+      "cat": "🏠 Contas Fixas",
+      "resp": "Casal",
+      "fixaDetail": "Carro (parcela)",
+      "val": 2888,
+      "data": "2026-04-09",
+      "parc": 1,
+      "parcAtual": 1,
+      "obs": "parcela antecipada do dia 17/04"
     }
   ],
   "materiais": [
