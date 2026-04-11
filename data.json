@@ -951,6 +951,18 @@
       "val": 100,
       "total": 100,
       "obs": ""
+    },
+    {
+      "id": "1775940239608-za0wj",
+      "serv": "Pedreiro",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-04-11",
+      "qtd": 1,
+      "val": 1400,
+      "total": 1400,
+      "obs": ""
     }
   ]
 }
