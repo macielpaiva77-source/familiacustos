@@ -913,6 +913,18 @@
       "total": 146.76,
       "forn": "Mercado Livre",
       "obs": ""
+    },
+    {
+      "id": "1775956979813-pegeo",
+      "nome": "Pedra balcão",
+      "cat": "Revestimento",
+      "status": "Comprado",
+      "qtd": 1,
+      "un": "un",
+      "preco": 2600,
+      "total": 2600,
+      "forn": "JB marmore",
+      "obs": ""
     }
   ],
   "maodeobra": [
