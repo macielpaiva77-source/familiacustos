@@ -975,6 +975,18 @@
       "val": 1400,
       "total": 1400,
       "obs": ""
+    },
+    {
+      "id": "1776439162203-4ft4z",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-04-17",
+      "qtd": 1,
+      "val": 100,
+      "total": 100,
+      "obs": ""
     }
   ]
 }
