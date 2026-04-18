@@ -987,6 +987,18 @@
       "val": 100,
       "total": 100,
       "obs": ""
+    },
+    {
+      "id": "1776545993909-9lgec",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-04-18",
+      "qtd": 1,
+      "val": 1000,
+      "total": 1000,
+      "obs": ""
     }
   ]
 }
