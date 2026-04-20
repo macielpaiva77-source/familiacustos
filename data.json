@@ -999,6 +999,18 @@
       "val": 1000,
       "total": 1000,
       "obs": ""
+    },
+    {
+      "id": "1776694811624-n7h55",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-04-20",
+      "qtd": 1,
+      "val": 500,
+      "total": 500,
+      "obs": ""
     }
   ]
 }
