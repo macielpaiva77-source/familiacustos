@@ -1023,6 +1023,18 @@
       "val": 1500,
       "total": 1500,
       "obs": ""
+    },
+    {
+      "id": "1777649401913-q1wjv",
+      "serv": "Obra",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-05-01",
+      "qtd": 1,
+      "val": 1800,
+      "total": 1800,
+      "obs": ""
     }
   ]
 }
