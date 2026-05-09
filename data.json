@@ -1035,6 +1035,18 @@
       "val": 1800,
       "total": 1800,
       "obs": ""
+    },
+    {
+      "id": "1778348912558-ewg4n",
+      "serv": "Leno",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-05-09",
+      "qtd": 1,
+      "val": 1500,
+      "total": 1500,
+      "obs": ""
     }
   ]
 }
