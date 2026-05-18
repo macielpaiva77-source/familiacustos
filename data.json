@@ -1047,6 +1047,18 @@
       "val": 1500,
       "total": 1500,
       "obs": ""
+    },
+    {
+      "id": "1779127078926-alhb7",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-05-18",
+      "qtd": 1,
+      "val": 2000,
+      "total": 2000,
+      "obs": ""
     }
   ]
 }
