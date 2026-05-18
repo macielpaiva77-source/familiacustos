@@ -1059,6 +1059,18 @@
       "val": 2000,
       "total": 2000,
       "obs": ""
+    },
+    {
+      "id": "1779127095179-k2gj9",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-05-18",
+      "qtd": 1,
+      "val": 300,
+      "total": 300,
+      "obs": ""
     }
   ]
 }
