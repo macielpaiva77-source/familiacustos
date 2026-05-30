@@ -1095,6 +1095,18 @@
       "val": 100,
       "total": 100,
       "obs": ""
+    },
+    {
+      "id": "1780099987665-clmdc",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-05-30",
+      "qtd": 1,
+      "val": 900,
+      "total": 900,
+      "obs": ""
     }
   ]
 }
