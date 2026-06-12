@@ -1107,6 +1107,18 @@
       "val": 900,
       "total": 900,
       "obs": ""
+    },
+    {
+      "id": "1781299928505-f6u06",
+      "serv": "construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-06-12",
+      "qtd": 1,
+      "val": 600,
+      "total": 600,
+      "obs": "pgt semana"
     }
   ]
 }
