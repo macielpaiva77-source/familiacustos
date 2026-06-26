@@ -1131,6 +1131,18 @@
       "val": 1000,
       "total": 1000,
       "obs": ""
+    },
+    {
+      "id": "1782518145811-k4cof",
+      "serv": "Construção",
+      "etapa": "Outros",
+      "status": "Concluído",
+      "prof": "Leno",
+      "data": "2026-06-26",
+      "qtd": 1,
+      "val": 700,
+      "total": 700,
+      "obs": ""
     }
   ]
 }
